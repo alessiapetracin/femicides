@@ -28,5 +28,5 @@ Both tests suggest that there is strong evidence against the null-hypothesis, na
 The present analysis is particularly limited by the poor data available on the matter. We believe that further data collection is needed at an institutional level, in order to conduct an analysis more suitable to the current composition of the Italian population and the more recent statistics on feminicides.
 
 ---
-# Further research #
+### Further research ###
 We believe that further research on the matter would benefit the political landscape, providing verified data to the political discourse. Furthermore, a more attentive data collection on the matter, which would include socio-cultural and economic factors, could aid policy-makers to operate on such a delicate matter, in order to actually understand which factors lead to feminicides and whether acting upon them could decrease the phenomenon. Seen the nationalities of people who are more likely to commit a feminicide, it is only natural to wonder whether economic or linguistic indicators impact the phenomenon, and whether policy-makers could pursue actions able to reduce the phenomenon.
